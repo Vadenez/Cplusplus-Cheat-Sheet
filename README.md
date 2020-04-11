@@ -8,8 +8,6 @@ A piece of code I created to help me remember what certain things in C++ do..<br
 This was made to be looked at as code, not to be compiled and see an output.<br />
 But, if you want to se the output, the EXE version is in the "releases" tab.
 
-### Contains:
-
 ### Made:
 This was made using CodeBlocks v13.12 and compiled using CodeBlocks v13.12 with GNU GCC
 
